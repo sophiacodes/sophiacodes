@@ -1,4 +1,6 @@
-### Hi there 👋
+# Front End Engineer
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-55acee?style=flat-square&labelColor=55acee&logo=twitter&logoColor=white&link=https://twitter.com/sophiacodes/)](https://twitter.com/sophiacodes/)
 
 <!--
 **sophiacodes/sophiacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
